@@ -1,1 +1,1 @@
-# stock_price_prediction_Deep_Learning
+# Stock Price prediction using Deep Learning Models: LSTM, Simple RNN, GRU
