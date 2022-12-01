@@ -8,22 +8,22 @@ We downloaded our dataset from - https://www.tiingo.com/
 
 The dataset contains data attributes named: 
 
-Name          | Description
--------------------------------------------------------------------------
-Symbol        | Name/ code of the company
-Date          | specifies the trading date 
-Open          | opening price 
-High          | maximum price during the day 
-Low           | minimum price during the day 
-Close         | close price adjusted for splits 
-Adj Close     | adjusted close price adjusted for both  dividends and splits 
-Adj Open      | adjusted high price adjusted for both  dividends and splits
-Adj Low       | adjusted low price adjusted for both  dividends and splits
-Adj High      | adjusted high price adjusted for both dividends and splits
-Volume        | the number of shares that changed hands during a given day
-Adj Volume    | adjusted volume price adjusted for both dividends and splits
-Div Cash      | distribution of funds or money paid to stockholders
-Split Factor  | Ratio in which additional shares are issued to shareholders
+Name          | Description\
+-------------------------------------------------------------------------\
+Symbol        | Name code of the company\
+Date          | specifies the trading date \
+Open          | opening price \
+High          | maximum price during the day \
+Low           | minimum price during the day \
+Close         | close price adjusted for splits \
+Adj Close     | adjusted close price adjusted for both  dividends and splits \
+Adj Open      | adjusted high price adjusted for both  dividends and splits\
+Adj Low       | adjusted low price adjusted for both  dividends and splits\
+Adj High      | adjusted high price adjusted for both dividends and splits\
+Volume        | the number of shares that changed hands during a given day\
+Adj Volume    | adjusted volume price adjusted for both dividends and splits\
+Div Cash      | distribution of funds or money paid to stockholders\
+Split Factor  | Ratio in which additional shares are issued to shareholders\
 
 
 We will perform the same experiment using data from Amazon, Apple, Google, Oracle, Microsoft, and Tesla
@@ -39,18 +39,18 @@ We divided the dataset in 80:20 ratio for training and testing
 
 We developed this project on Jupyter notebooks. To run the code you can either use google colab or jupyter notebooks. Below are the steps to setup the code on Jupyter notebooks.
 
-Step 1 - Install python3
-Step 2 - 
-    python3 --version
-    pip3 --version
-Step 3 - 
-    pip3 install --upgrade pip
-Step 4 -
-    pip3 install jupyter
+Step 1 - Install python3\
+Step 2 - \
+    python3 --version\
+    pip3 --version\
+Step 3 - \
+    pip3 install --upgrade pip\
+Step 4 -\
+    pip3 install jupyter\
     
-After successfully installing jupyter notebooks on your system, open it.
-Step 5 - 
-    jupyter notebook
+After successfully installing jupyter notebooks on your system, open it.\
+Step 5 - \
+    jupyter notebook\
     
 ### How to run code
 
