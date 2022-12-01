@@ -23,8 +23,9 @@ Adj High      | adjusted high price adjusted for both dividends and splits\
 Volume        | the number of shares that changed hands during a given day\
 Adj Volume    | adjusted volume price adjusted for both dividends and splits\
 Div Cash      | distribution of funds or money paid to stockholders\
-Split Factor  | Ratio in which additional shares are issued to shareholders\
+Split Factor  | Ratio in which additional shares are issued to shareholders
 
+![Dataset description](/Users/jagrutidhondage/Desktop)
 
 We will perform the same experiment using data from Amazon, Apple, Google, Oracle, Microsoft, and Tesla
 For each company the dataset can be downloaded as -
@@ -46,11 +47,11 @@ Step 2 - \
 Step 3 - \
     pip3 install --upgrade pip\
 Step 4 -\
-    pip3 install jupyter\
+    pip3 install jupyter
     
 After successfully installing jupyter notebooks on your system, open it.\
 Step 5 - \
-    jupyter notebook\
+    jupyter notebook
     
 ### How to run code
 
