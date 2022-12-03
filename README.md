@@ -1,6 +1,6 @@
 # Stock Price prediction using Deep Learning Models: LSTM, Simple RNN, GRU
 
-we propose the accurate prediction on stock market data gathered from 2017–2022 by implementing a basic Recurrent Neural Network, LSTM, and GRU machine learning models. High Price, Opening Price, Closing Price, and Low Price are the four primary indicators in this stock data set. We will perform the same experiment using data from Amazon, Apple, Google, Oracle, Microsoft, and Tesla, and find out the best model that yields the best predicted results in every case. 
+We propose the accurate prediction on stock market data gathered from 2017–2022 by implementing a basic Recurrent Neural Network, LSTM, and GRU machine learning models. High Price, Opening Price, Closing Price, and Low Price are the four primary indicators in this stock data set. We will perform the same experiment using data from Amazon, Apple, Google, Oracle, Microsoft, and Tesla, and find out the best model that yields the best predicted results in every case. 
 
 ### Dataset description 
 
@@ -38,18 +38,19 @@ We divided the dataset in 80:20 ratio for training and testing
 
 We developed this project on Jupyter notebooks. To run the code you can either use google colab or jupyter notebooks. Below are the steps to setup the code on Jupyter notebooks.
 
-Step 1 - Install python3\
+Step 1 - \
+    `Install python3`\
 Step 2 - \
-    python3 --version\
-    pip3 --version\
+    `python3 --version`\
+    `pip3 --version`\
 Step 3 - \
-    pip3 install --upgrade pip\
+    `pip3 install --upgrade pip`\
 Step 4 -\
-    pip3 install jupyter
+    `pip3 install matplotlib numpy pandas pandas-datareader scikit-learn tensorflow tensorflow-datasets jupyter` 
     
 After successfully installing jupyter notebooks on your system, open it.\
 Step 5 - \
-    jupyter notebook
+    `jupyter notebook`
     
 ### How to run code
 
